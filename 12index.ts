@@ -1,4 +1,3 @@
-
 import axios from 'axios';
 
 const uploadObjectToS3 = async (filePath: string, bucketName: string) => {
